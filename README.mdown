@@ -1,0 +1,6 @@
+UniConnect
+==========
+
+A Rails app to socially share your timetable with your friends.
+
+`Rest of README here`

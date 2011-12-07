@@ -1,0 +1,8 @@
+Sat, 03 Dec 2011 21:56:26 +0800
+doc/README_FOR_APP	Fri, 02 Dec 2011 16:05:49 +0800
+app/controllers/application_controller.rb	Fri, 02 Dec 2011 16:05:49 +0800
+app/controllers/static_controller.rb	Sat, 03 Dec 2011 01:58:48 +0800
+app/helpers/application_helper.rb	Fri, 02 Dec 2011 16:05:49 +0800
+app/helpers/static_helper.rb	Fri, 02 Dec 2011 17:18:50 +0800
+app/models/course.rb	Sat, 03 Dec 2011 01:56:00 +0800
+app/models/lecture.rb	Sat, 03 Dec 2011 01:57:35 +0800
